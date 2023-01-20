@@ -1,0 +1,62 @@
+{
+  "dataSet1": [
+    {
+      "name": "Jon",
+      "email": "knownothing@gmail.com",
+      "password":"12345"
+    },
+    {
+      "name": "Mark",
+      "email": "facebook@gmail.com",
+      "password":"1-~/пу"
+    }
+  ],
+  "dataSet2": [
+    {
+      "name": "Jon24",
+      "email": "",
+      "password":"12345"
+    },
+    {
+      "name": "Mark12",
+      "email": "facebook2@gmail.com",
+      "password":""
+    }
+  ],
+  "dataSet3": [
+    {
+      "name": "Jon",
+      "email": "knownothing3@gmail.com",
+      "password":"12345"
+    },
+    {
+      "name": "Mark",
+      "email": "facebook3@gmail.com",
+      "password":"1-~/пу"
+    }
+  ],
+  "dataSet4": [
+    {
+      "name": "Jon",
+      "email": "knownothing4@gmail.com",
+      "password":"12345"
+    },
+    {
+      "name": "Mark",
+      "email": "facebook4@gmail.com",
+      "password":"1-~/пу"
+    }
+  ],
+  "dataSet5": [
+    {
+      "name": "Jon",
+      "email": "knownothing5@gmail.com",
+      "password":"12345"
+    },
+    {
+      "name": "Mark",
+      "email": "facebook5@gmail.com",
+      "password":"1-~/пу"
+    }
+  ]
+}

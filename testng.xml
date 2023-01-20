@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DeboQASuite">
+    <test name="Sample tests">
+        <classes>
+            <class name="TestProject.Tests.TestCase_1"/>
+            <class name="TestProject.Tests.TestCase_2"/>
+            <class name="TestProject.Tests.TestCase_3"/>
+            <class name="TestProject.Tests.TestCase_4"/>
+            <class name="TestProject.Tests.TestCase_5"/>
+        </classes>
+    </test>
+</suite>
